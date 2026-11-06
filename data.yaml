@@ -1,0 +1,15 @@
+path: D:\AI PROJECTS\pcb circuit board inspection deeplearning\Dataset
+train: train/images
+val: validation/images
+test: test/images
+nc: 9
+names:
+- Cap1
+- Cap2
+- Cap3
+- Cap4
+- MOSFET
+- MOV
+- Resestor
+- Resistor
+- Transformer
